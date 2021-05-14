@@ -1,6 +1,6 @@
 # maven-project
 Source code for James Lee's Jenkins course.
-Forked Version by Nitish
+Forked Version by Nitish Shete
 
 Check out our Latest DevOps PDF book.
 
