@@ -1,5 +1,6 @@
 package com.example;
 
+// non-breaking greeter change
 /**
  * This is a class.
  */
